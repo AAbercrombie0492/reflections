@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+>The folder you are in becomes git enabled. Now you can make commits and manage versions of that folder. If you don't git init, you can't commit, log, status, checkout, etc.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+>Working directory is where the files exist. Repository is created in working directory. The staging area is part of the repository, or in between the working directory and the repository. File changes are added to the staging area to allow precision when committing to the repository.
